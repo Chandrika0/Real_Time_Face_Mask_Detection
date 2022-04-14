@@ -16,5 +16,5 @@ To use this project on your system, follow these steps:
 4. Run train_mask_detector file.
 5. Run detect_mask file.
 
-### The project is now ready to use!!
+#### The project is now ready to use!!
 
